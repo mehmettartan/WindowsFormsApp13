@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApp13", "WindowsFormsApp13\WindowsFormsApp13.csproj", "{B4662D77-45CC-43A7-B9A8-FF4B7048DDDA}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "MagnaOK", "MagnaOK\MagnaOK.vdproj", "{3A225E0A-F3F4-43BA-A1BF-946C3ECB0505}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4662D77-45CC-43A7-B9A8-FF4B7048DDDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4662D77-45CC-43A7-B9A8-FF4B7048DDDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4662D77-45CC-43A7-B9A8-FF4B7048DDDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4662D77-45CC-43A7-B9A8-FF4B7048DDDA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A225E0A-F3F4-43BA-A1BF-946C3ECB0505}.Debug|Any CPU.ActiveCfg = Debug
+		{3A225E0A-F3F4-43BA-A1BF-946C3ECB0505}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {86675ED8-13F3-4AC4-8A81-A4019557D7CE}
+	EndGlobalSection
+EndGlobal
